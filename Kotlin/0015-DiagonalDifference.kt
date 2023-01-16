@@ -1,4 +1,4 @@
-package warmup
+
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
     var d1 = 0
     var d2 = 0

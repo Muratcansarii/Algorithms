@@ -1,4 +1,4 @@
-package warmup
+
 
 fun aVeryBigSum(ar: Array<Long>): Long {
     var result = 0L

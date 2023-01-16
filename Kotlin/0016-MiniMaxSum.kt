@@ -1,4 +1,4 @@
-package warmup
+// murat loves kotlin 
 fun miniMaxSum(arr: Array<Int>): Unit {
     var minValue = Long.MAX_VALUE
     var maxValue = Long.MIN_VALUE

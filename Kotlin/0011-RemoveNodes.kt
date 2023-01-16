@@ -17,3 +17,4 @@ fun removeNodes(head: ListNode?): ListNode? {
 
     return list.toListNodes()
 }
+//megadeth dinlerken iyi gidio

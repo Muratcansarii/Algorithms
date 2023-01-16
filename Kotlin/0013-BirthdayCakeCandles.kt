@@ -1,4 +1,4 @@
-package warmup
+
 
 fun birthdayCakeCandles(candles: Array<Int>): Int {
     var result = 0

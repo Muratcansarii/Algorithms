@@ -1,4 +1,4 @@
-package warmup
+
 
 fun compareTriplets(a: Array<Int>, b: Array<Int>): Array<Int> {
     val resultArray = arrayOf(0, 0)

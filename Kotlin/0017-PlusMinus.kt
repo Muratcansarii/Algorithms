@@ -1,4 +1,4 @@
-package warmup
+
 
 fun plusMinus(arr: Array<Int>): Unit {
     val resultArray = arrayOf(0, 0, 0)
