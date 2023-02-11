@@ -1,13 +1,5 @@
 import org.omg.CORBA.Object
 
-/**
- * @author: KateVu
- * Compare and update the inventory stored in a 2D array against a second 2D array of a fresh delivery.
- * Update the current existing inventory item quantities (in arr1).
- * If an item cannot be found, add the new item and quantity into the inventory array.
- * The returned inventory array should be in alphabetical order by item.
- * */
-
 
 fun main(args: Array<String>) {
     val curInv = arrayListOf(
@@ -34,12 +26,7 @@ fun main(args: Array<String>) {
     }
 }
 
-/**
- * update inventory: if existed: add amount, if !existed: add new item
- * @param: curInv: current inventory
- * @param: newInv: new inventory
- * @return updated inventory
- */
+
 fun updateInventory(curInv: ArrayList<Array<Any>>, newInv: Array<Array<Any>>): ArrayList<Array<Any>> {
     //iterate second array
     for (newItem in newInv) {

@@ -1,9 +1,4 @@
-/**
- * @author: KateVu
- * Given an array of unsorted items, we want to be able to return a sorted array.
- * The bubble sort method starts at the beginning of an unsorted array and 'bubbles up' unsorted values towards the end,
- * iterating through the array until it is completely sorted
- **/
+
 
 fun main (args: Array<String>) {
     //var result = bubbleSort(mutableListOf(1, 4, 2, 8, 345, 123, 43, 32, 5643, 63, 123, 43, 2, 55, 1, 234, 92))

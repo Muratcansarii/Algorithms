@@ -1,11 +1,4 @@
-import java.lang.Math.floor
-
-/**
- * @author: KateVu
- * Recursively split the input array in half until a sub-array with only one element is produced.
- * Merge each sorted sub-array together to produce the final sorted array.
- **/
-
+//kotlin neymis yav
 fun main (args: Array<String>) {
 //    val result = mergeSort(mutableListOf(1, 4, 2, 8, 345, 123, 43, 32, 5643, 63, 123, 43, 2, 55, 1, 234, 92))
     val result = mergeSort(mutableListOf(1, 4, 2, 8, 43, 2, 55, 1, 234, 92))
