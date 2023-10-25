@@ -1,12 +1,3 @@
-"""
-This is a Python implementation of the circle sort algorithm
-
-For doctests run following command:
-python3 -m doctest -v circle_sort.py
-
-For manual testing run:
-python3 circle_sort.py
-"""
 
 
 def circle_sort(collection: list) -> list:

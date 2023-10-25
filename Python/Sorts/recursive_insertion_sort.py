@@ -1,6 +1,3 @@
-"""
-A recursive implementation of the insertion sort algorithm
-"""
 
 from __future__ import annotations
 

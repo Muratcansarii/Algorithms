@@ -1,7 +1,3 @@
-"""
-Bead sort only works for sequences of non-negative integers.
-https://en.wikipedia.org/wiki/Bead_sort
-"""
 
 
 def bead_sort(sequence: list) -> list:

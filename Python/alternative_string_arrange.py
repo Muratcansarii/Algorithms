@@ -1,18 +1,6 @@
 def alternative_string_arrange(first_str: str, second_str: str) -> str:
-    """
-    Return the alternative arrangements of the two strings.
-    :param first_str:
-    :param second_str:
-    :return: String
-    >>> alternative_string_arrange("ABCD", "XY")
-    'AXBYCD'
-    >>> alternative_string_arrange("XY", "ABCD")
-    'XAYBCD'
-    >>> alternative_string_arrange("AB", "XYZ")
-    'AXBYZ'
-    >>> alternative_string_arrange("ABC", "")
-    'ABC'
-    """
+
+
     first_str_length: int = len(first_str)
     second_str_length: int = len(second_str)
     abs_length: int = (

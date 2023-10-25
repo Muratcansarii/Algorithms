@@ -1,14 +1,4 @@
-"""
-This is a pure Python implementation of the binary insertion sort algorithm
 
-For doctests run following command:
-python -m doctest -v binary_insertion_sort.py
-or
-python3 -m doctest -v binary_insertion_sort.py
-
-For manual testing run:
-python binary_insertion_sort.py
-"""
 
 
 def binary_insertion_sort(collection: list) -> list:

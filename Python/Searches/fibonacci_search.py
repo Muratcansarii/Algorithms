@@ -1,15 +1,4 @@
-"""
-This is pure Python implementation of fibonacci search.
 
-Resources used:
-https://en.wikipedia.org/wiki/Fibonacci_search_technique
-
-For doctests run following command:
-python3 -m doctest -v fibonacci_search.py
-
-For manual testing run:
-python3 fibonacci_search.py
-"""
 
 from functools import lru_cache
 

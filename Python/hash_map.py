@@ -1,12 +1,3 @@
-"""
-Hash map with open addressing.
-
-https://en.wikipedia.org/wiki/Hash_table
-
-Another hash map implementation, with a good explanation.
-Modern Dictionaries by Raymond Hettinger
-https://www.youtube.com/watch?v=p33CVV29OG8
-"""
 
 from collections.abc import Iterator, MutableMapping
 from dataclasses import dataclass
